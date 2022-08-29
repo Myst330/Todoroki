@@ -10,6 +10,6 @@ std::cout << idk how the std works << std::endl;
 while (isDed = true) {
 
 std::cout << never gonna run around, and desert you << std::endl;
-
+std::cout << ikentellbythelokinyureyesssbmbmbmbmbmchchchchcb mbmbmchchcmbmbmbchchcmbmbm << std::endl;
 }
 
